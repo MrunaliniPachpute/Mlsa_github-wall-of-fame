@@ -1,0 +1,142 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 2rem;
+}
+
+.banner {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0 1rem;
+  flex-wrap: wrap;
+}
+
+.banner img {
+  height: 80px;
+}
+
+.title-section {
+  flex: 1;
+  text-align: center;
+}
+
+.title-section h1 {
+  color: #2c3e50;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.title-section blockquote {
+  font-style: italic;
+  color: #555;
+  margin: 0.5rem 0 50px 0;
+}
+
+
+
+.wall {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.quote {
+  font-style: italic;
+  margin: 0.5rem 0;
+  max-height: 80px;
+  overflow-y: auto;
+}
+
+
+.card {
+  background: white;
+  border-radius: 10px;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 280px;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.name {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #0078d4; /* Microsoft blue */
+}
+
+.quote {
+  font-style: italic;
+  margin: 0.5rem 0;
+}
+
+.college {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #888;
+}
+
+.card {
+  min-height: 100px; /* or adjust to your layout */
+}
+
+
+.glow-wrap {
+  position: relative;
+  padding: 10px; /* more padding = glow gets room to spread */
+  border-radius: 20px;
+  z-index: 0;
+}
+
+.glow-wrap::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  background: linear-gradient(90deg, #00ffff, #0078D4, #00ffff);
+  background-size: 600%;
+  border-radius: 22px;
+  animation: electric-glow 4s linear infinite;
+  filter: blur(5px);
+  opacity: 0.6;
+}
+
+
+
+@keyframes electric-glow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.contribution-count {
+  text-align: center;
+  font-size: 1.1rem;
+  margin-top: 2rem;
+  padding: 1rem;
+  border-top: 1px solid #ccc;
+  color: #333;
+  font-weight: bold;
+}
