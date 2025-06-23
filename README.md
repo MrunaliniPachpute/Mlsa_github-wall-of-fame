@@ -4,7 +4,7 @@ Welcome to the **GitHub Wall of Fame**, a creative initiative built as part of a
 
 ## 🚀 Why I Created This Project
 
-As an MLSA Beta, I hosted a hands-on session to help students understand the fundamentals of **Git** and **GitHub**, focusing on version control, collaboration, and contributing to open source.
+As an **MLSA Beta**, I hosted a hands-on session to help students understand the fundamentals of **Git** and **GitHub**, focusing on version control, collaboration, and contributing to open source.
 
 To make the session more engaging and impactful, I created this GitHub Wall of Fame where participants could:
 
@@ -31,8 +31,8 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 
 ## 🌐 Live Preview
 
-> 🔗 [Deployed GitHub Wall of Fame](#)  
-> *https://mrunalinipachpute.github.io/Mlsa_github-wall-of-fame/*
+🔗 [Deployed GitHub Wall of Fame](https://mrunalinipachpute.github.io/Mlsa_github-wall-of-fame/)  
+*Hosted via GitHub Pages*
 
 ---
 
