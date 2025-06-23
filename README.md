@@ -38,7 +38,7 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 
 ## 📷 Screenshot
 
-<iframe src="https://mrunalinipachpute.github.io/Mlsa_github-wall-of-fame/" width="100%" height="500px"></iframe>
+<img src="https://api.microlink.io/?url=https://mrunalinipachpute.github.io/Mlsa_github-wall-of-fame/&screenshot=true&meta=false&embed=screenshot.url" width="100%" height="500px" />
 
 ---
 
