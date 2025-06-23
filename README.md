@@ -39,7 +39,7 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 ## 📷 Screenshot
 
 <div style="max-height: 50px; overflow-y: auto; border: 1px solid #ccc;">
-  <img src="https://api.microlink.io/?url=https://mrunalinipachpute.github.io/Mlsa_github-wall-of-fame/&screenshot=true&meta=false&embed=screenshot.url" style="width: 100%; object-fit: cover;" />
+  <img src="https://api.microlink.io/?url=https://mrunalinipachpute.github.io/Mlsa_github-wall-of-fame/&screenshot=true&meta=false&embed=screenshot.url" style="width: auto; height: 200px;" />
 </div>
 
 ---
