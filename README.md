@@ -68,15 +68,25 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 
 ---
 ## 👨‍💻 Contributors
-<!-- Contributors badge -->
+## 👨‍💻 Contributors
+
+<!-- Contributors badge (auto-updating) -->
 [![Contributors](https://img.shields.io/github/contributors/MrunaliniPachpute/mlsa-github-wall-of-fame?style=for-the-badge)](https://github.com/MrunaliniPachpute/mlsa-github-wall-of-fame/graphs/contributors)
 
-<!-- Contributors avatars -->
+<!-- Contributors avatars (auto-updating) -->
 <p align="center">
-  <a href="[https://github.com/MrunaliniPachpute/Mlsa_github-wall-of-fame/graphs/contributors">
+  <a href="https://github.com/MrunaliniPachpute/mlsa-github-wall-of-fame/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=MrunaliniPachpute/mlsa-github-wall-of-fame" alt="Contributors" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+  </a>
+</div>
 
 
 <div align="center">
