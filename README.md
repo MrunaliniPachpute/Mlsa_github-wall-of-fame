@@ -69,7 +69,7 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 ---
 ## 👨‍💻 Our Participants
 
-[![Contributors](https://img.shields.io/github/contributors/MrunaliniPachpute/Mlsa_github-wall-of-fame?style=for-the-badge)](https://github.com/MrunaliniPachpute/Mlsa_github-wall-of-fame/graphs/contributors)
+[![Learners](https://img.shields.io/github/contributors/MrunaliniPachpute/Mlsa_github-wall-of-fame?style=for-the-badge)](https://github.com/MrunaliniPachpute/Mlsa_github-wall-of-fame/graphs/contributors)
 
 <p align="center">
   <a href="https://github.com/MrunaliniPachpute/Mlsa_github-wall-of-fame/graphs/contributors">
