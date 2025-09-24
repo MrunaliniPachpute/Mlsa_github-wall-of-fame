@@ -73,6 +73,12 @@ Thanks to these wonderful people who contributed to this project ✨
 
 [Open an Issue](https://github.com/MrunaliniPachpute/mlsa-github-wall-of-fame/issues) | [Live Demo](https://mrunalinipachpute.github.io/mlsa-github-wall-of-fame/)
 
+<div align="center">
+    <a href="#top">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+    </a>
+</div>
+
 ---
 
 Feel free to fork, contribute, or run your own version of this idea in your campus tech sessions!
