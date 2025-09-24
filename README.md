@@ -71,11 +71,8 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 
 Thanks to these wonderful people who contributed to this project ✨  
 
-<a href="https://github.com/YourRepoOwner/YourRepoName/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=YourRepoOwner/YourRepoName" />
-</a>
+[Open an Issue](https://github.com/MrunaliniPachpute/mlsa-github-wall-of-fame/issues) | [Live Demo](https://mrunalinipachpute.github.io/mlsa-github-wall-of-fame/)
 
-Made with [contrib.rocks](https://contrib.rocks).
 ---
 
 Feel free to fork, contribute, or run your own version of this idea in your campus tech sessions!
