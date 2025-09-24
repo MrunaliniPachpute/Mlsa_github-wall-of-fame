@@ -63,7 +63,6 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 <p align="center">
   <strong>Mrunalini Pachpute</strong><br/>
   GitHub: <a href="https://github.com/MrunaliniPachpute">@MrunaliniPachpute</a><br/>
-  Contact: You can open an issue for any questions or help
 </p>
 
 ---
