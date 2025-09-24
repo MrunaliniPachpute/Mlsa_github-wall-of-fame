@@ -77,7 +77,7 @@ This gave students real experience with GitHub workflows in a fun and memorable 
   </a>
 </p>
 
-<p align="center">Cheers to these amazing students who made their <b>first GitHub PR</b> during this MLSA session! ✨</p>
+<p align="center">Cheers to these amazing students who made their own <b>GitHub PR</b> during this MLSA session! ✨</p>
 
 <div align="center">
     <a href="#top">
