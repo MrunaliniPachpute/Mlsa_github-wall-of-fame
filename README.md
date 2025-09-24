@@ -77,8 +77,7 @@ This gave students real experience with GitHub workflows in a fun and memorable 
   </a>
 </p>
 
----
-Thanks to these wonderful people who contributed to this project ✨    
+<p align="center">Thanks to these wonderful people who contributed to this project ✨</p>
 ---
 <div align="center">
     <a href="#top">
