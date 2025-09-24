@@ -67,7 +67,7 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 </p>
 
 ---
-## 👨‍💻 Contributors
+## 👨‍💻 Our Contributors
 
 [![Contributors](https://img.shields.io/github/contributors/MrunaliniPachpute/Mlsa_github-wall-of-fame?style=for-the-badge)](https://github.com/MrunaliniPachpute/Mlsa_github-wall-of-fame/graphs/contributors)
 
@@ -77,7 +77,9 @@ This gave students real experience with GitHub workflows in a fun and memorable 
   </a>
 </p>
 
-
+---
+Thanks to these wonderful people who contributed to this project ✨    
+---
 <div align="center">
     <a href="#top">
         <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
