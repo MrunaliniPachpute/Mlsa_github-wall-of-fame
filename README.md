@@ -78,7 +78,7 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 </p>
 
 <p align="center">Thanks to these wonderful people who contributed to this project ✨</p>
----
+
 <div align="center">
     <a href="#top">
         <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
