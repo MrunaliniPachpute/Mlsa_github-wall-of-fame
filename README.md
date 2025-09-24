@@ -73,7 +73,7 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 
 <!-- Contributors avatars -->
 <p align="center">
-  <a href="[https://github.com/MrunaliniPachpute/mlsa-github-wall-of-fame/graphs/contributors](https://github.com/MrunaliniPachpute/Mlsa_github-wall-of-fame/graphs/contributors)">
+  <a href="[https://github.com/MrunaliniPachpute/Mlsa_github-wall-of-fame/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=MrunaliniPachpute/mlsa-github-wall-of-fame" alt="Contributors" />
   </a>
 </p>
