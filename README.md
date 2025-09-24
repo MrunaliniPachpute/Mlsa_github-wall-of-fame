@@ -67,13 +67,15 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 </p>
 
 ---
+## 👨‍💻 Contributors
 
-## 🙌 Contributions
+Thanks to these wonderful people who contributed to this project ✨  
 
-@all-contributors please add @username for code
+<a href="https://github.com/YourRepoOwner/YourRepoName/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=YourRepoOwner/YourRepoName" />
+</a>
 
-Thanks to all the enthusiastic participants who made their first contribution through this project!
-
+Made with [contrib.rocks](https://contrib.rocks).
 ---
 
 Feel free to fork, contribute, or run your own version of this idea in your campus tech sessions!
