@@ -68,10 +68,16 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 
 ---
 ## 👨‍💻 Contributors
+<!-- Contributors badge -->
+[![Contributors](https://img.shields.io/github/contributors/MrunaliniPachpute/mlsa-github-wall-of-fame?style=for-the-badge)](https://github.com/MrunaliniPachpute/mlsa-github-wall-of-fame/graphs/contributors)
 
-Thanks to these wonderful people who contributed to this project ✨  
+<!-- Contributors avatars -->
+<p align="center">
+  <a href="https://github.com/MrunaliniPachpute/mlsa-github-wall-of-fame/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=MrunaliniPachpute/mlsa-github-wall-of-fame" alt="Contributors" />
+  </a>
+</p>
 
-[Open an Issue](https://github.com/MrunaliniPachpute/mlsa-github-wall-of-fame/issues) | [Live Demo](https://mrunalinipachpute.github.io/mlsa-github-wall-of-fame/)
 
 <div align="center">
     <a href="#top">
