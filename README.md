@@ -52,8 +52,25 @@ This gave students real experience with GitHub workflows in a fun and memorable 
 - GitHub Pages (for deployment)
 
 ---
+<h2 align="center"> 💻 Project Admin </h2>
+
+<p align="center">
+  <a href="https://github.com/MrunaliniPachpute">
+    <img src="https://github.com/MrunaliniPachpute.png" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Mrunalini Pachpute</strong><br/>
+  GitHub: <a href="https://github.com/MrunaliniPachpute">@MrunaliniPachpute</a><br/>
+  Contact: You can open an issue for any questions or help
+</p>
+
+---
 
 ## 🙌 Contributions
+
+@all-contributors please add @username for code
 
 Thanks to all the enthusiastic participants who made their first contribution through this project!
 
